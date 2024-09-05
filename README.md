@@ -81,6 +81,3 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 
 For any issues or inquiries, you can reach out through [GitHub Issues](https://github.com/Anou26/Hacker-News-Sorting-Validation/issues).
 
----
-
-Feel free to copy this template into your project’s `README.md` file. Let me know if you'd like any changes or additions!
